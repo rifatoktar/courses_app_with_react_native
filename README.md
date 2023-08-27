@@ -15,6 +15,7 @@ A few resources to get you started if this is your first React Native project:
 
 - [Lab: Write your first React Native app](https://reactnative.dev/) 
 - [Cookbook: Useful React Native samples](https://reactnative.dev/docs/getting-started)
+
 For help getting started with React Native development, view the online documentation, which offers tutorials, samples, guidance on mobile development, and a full API reference.
 
 For help getting started with React Native development, view the
