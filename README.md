@@ -4,6 +4,8 @@ Course App Design with React Native and Figma
 
 You can observe to predesign process in Figma
 
+(Dark mode coming soon...)
+
 ![Ekran Alıntısı](https://github.com/rifatoktar/courses_app_with_react_native/assets/105917287/1b866890-b9b4-4a7d-ad5c-20fc90305cbf)
 
 A new React Native project.
